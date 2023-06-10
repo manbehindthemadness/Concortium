@@ -91,6 +91,7 @@ None.
 In conclusion, the Consortium protocol embodies a robust governance framework tailored for decentralized autonomous organizations (DAOs). It embraces principles of transparency, collaboration, adaptability, philanthropy, and fair decision-making to foster a robust and inclusive ecosystem that empowers participants and upholds collective security and value preservation. A vital prerequisite of the protocol is the attainment of prior agreement and consensus among multiple DAOs, determined within their individual governance systems. This emphasis on inter-DAO collaboration ensures a harmonious and cooperative environment, bolstering the protocol's effectiveness and success.
 By leveraging existing node data infrastructure, the protocol enhances its versatility as it is implemented by the native developers of each participating DAO. This approach underscores the commitment to collective decision-making and mutual agreements among multiple DAOs, holders, and developers before the protocol's implementation, solidifying its collaborative nature and reinforcing the principles of decentralized governance.
 
+## Notes:
 
 *Note: This whitepaper is entirely conceptual and serves as a guide for future developers. The statements herein provide an outline for the proposed governance protocol and its fundamental principles.*
 
@@ -101,6 +102,8 @@ By leveraging existing node data infrastructure, the protocol enhances its versa
 ***Note: Ensure inclusion requirements are reasonable goals or produced in a tiered system.*
 
 ****Note: Define the concept of multi-DAO organizational units and the incentives therein.*
+
+## 
 
 "The strength of the tribes lies in their unity." - Genghis Khan probably
 
