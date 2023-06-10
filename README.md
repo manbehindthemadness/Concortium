@@ -80,6 +80,9 @@ Consortium provides a robust assurance of non-aggression among all DAO participa
 
 In instances where conflicts or potential harm arise among DAO participants, the Consortium protocol incentivizes the involved parties to actively pursue collaborative relationships within an organizational unit.
 
+## 3.8 Extensible interfaces:
+The Consortium protocol incorporates extensible interfaces that facilitate the submission of proposals by external parties who are not members of the protocol. These third parties may include entities specializing in general innovations, compliance, regulation, bug identification, and problem resolution. 
+
 ## Conclusion:
 
 Consortium represents a forward-thinking governance protocol for decentralized autonomous organizations. By incorporating principles of transparency, collaboration, adaptability, philanthropy, and fair decision-making, Consortium aims to create a robust and inclusive ecosystem that empowers participants while ensuring collective security and value preservation.
