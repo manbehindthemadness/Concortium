@@ -16,7 +16,7 @@ All activities within the Consortium protocol must adhere to open-source princip
 
 ### 2.2 Proof of Decentralization:
 
-Voting power within the protocol is determined through proof of decentralization mechanisms. Both proof of stake (POS) and proof of work (POW) qualifications are considered, prioritizing node count over stake ratio for POS and node count over hashrate ratio for POW.
+Voting power within the protocol is determined through proof of decentralization mechanisms. Both proof of stake (POS) and proof of work (POW) qualifications are considered, prioritizing node count over stake ratio for POS and node count over hashrate ratio for POW.*
 
 ### 2.3 Provision for Qualifying New Decentralized Technologies:
 
@@ -28,7 +28,7 @@ Consortium implements a smart contract-based proposal system with consensus mech
 
 ### 2.5 Ecosystem Inclusion Principles:
 
-Decentralized ecosystems are awarded governance power based on their adherence to decentralized fundamentals. Larger ecosystems cannot gain exclusivity in consensus, while smaller ecosystems should not gain exclusivity in multiplicity.
+Decentralized ecosystems are awarded governance power based on their adherence to decentralized fundamentals. Larger ecosystems cannot gain exclusivity in consensus, while smaller ecosystems should not gain exclusivity in multiplicity.**
 
 ### 2.6 Upgradability and Adaptability:
 
@@ -83,6 +83,9 @@ In instances where conflicts or potential harm arise among DAO participants, the
 ## 3.8 Extensible interfaces:
 The Consortium protocol incorporates extensible interfaces that facilitate the submission of proposals by external parties who are not members of the protocol. These third parties may include entities specializing in general innovations, compliance, regulation, bug identification, and problem resolution. 
 
+## Tokenomics:
+None.
+
 ## Conclusion:
 
 In conclusion, the Consortium protocol embodies a forward-thinking governance framework tailored for decentralized autonomous organizations (DAOs). It embraces principles of transparency, collaboration, adaptability, philanthropy, and fair decision-making to foster a robust and inclusive ecosystem that empowers participants and upholds collective security and value preservation. A vital prerequisite of the protocol is the attainment of prior agreement and consensus among multiple DAOs, determined within their individual governance systems. This emphasis on inter-DAO collaboration ensures a harmonious and cooperative environment, bolstering the protocol's effectiveness and success.
@@ -91,10 +94,13 @@ By leveraging existing node data infrastructure, the protocol enhances its versa
 
 *Note: This whitepaper is entirely conceptual and serves as a guide for future developers. The statements herein provide an outline for the proposed governance protocol and its fundamental principles.*
 
-*Note: Clarify the meaning of "POS qualification through node-count over stake ratio" and "POW qualification through node-count over hashrate ratio" for accurate representation.*
+**Note: Clarify the meaning of "POS qualification through node-count over stake ratio" and "POW qualification through node-count over hashrate ratio" for accurate representation.*
 
-**Note: Specify the requirements and process for failing to meet inclusion requirements, as well as the exclusion via consensus mechanism to ensure clarity and completeness of the proposal.*
+***Note: Specify the requirements and process for failing to meet inclusion requirements, as well as the exclusion via consensus mechanism to ensure clarity and completeness of the proposal.*
 
-***Note: Define the concept of multi-DAO organizational units and the incentives therein.*
+****Note: Define the concept of multi-DAO organizational units and the incentives therein.*
 
 "The strength of the tribes lies in their unity." - Genghis Khan probably
+
+“Consensus before creation.” - Me, thinking of this whilst drinking coffee this morning
+
