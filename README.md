@@ -98,6 +98,8 @@ By leveraging existing node data infrastructure, the protocol enhances its versa
 
 ***Note: Specify the requirements and process for failing to meet inclusion requirements, as well as the exclusion via consensus mechanism to ensure clarity and completeness of the proposal.*
 
+***Note: Ensure inclusion requirements are reasonable goals or produced in a tiered system.*
+
 ****Note: Define the concept of multi-DAO organizational units and the incentives therein.*
 
 "The strength of the tribes lies in their unity." - Genghis Khan probably
