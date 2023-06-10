@@ -1,4 +1,4 @@
-# Consortium, a lightweight cross-DAO governance protocol
+# Consortium, a Tokenless Lightweight Cross-DAO Governance Protocol
 
 ## Abstract:
 
