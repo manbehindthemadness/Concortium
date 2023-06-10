@@ -105,7 +105,7 @@ By leveraging existing node data infrastructure, the protocol enhances its versa
 
 ## 
 
-"The strength of the tribes lies in their unity." - Genghis Khan probably
+"The unity of tribes is where their strength lies." - Genghis Khan probably
 
 “Consensus before creation.” - Me, thinking of this whilst drinking coffee this morning
 
