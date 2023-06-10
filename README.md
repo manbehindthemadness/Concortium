@@ -48,7 +48,7 @@ The protocol embraces philanthropic principles, promoting initiatives such as gr
 
 ### 2.10 Participation Incentives:
 
-Consortium incentivizes active participation through various mechanisms to drive engagement and ensure a vibrant ecosystem.
+See 3.1
 
 ## Governance Principles:
 
