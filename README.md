@@ -2,7 +2,7 @@
 
 ## Abstract:
 
-This whitepaper outlines the conceptual framework for Consortium, a decentralized autonomous organization (DAO) governance protocol. The proposal aims to guide future developers in building a multi-organization consensus system that operates transparently and openly while leveraging existing node technologies. The key concepts include open-source operations, proof of decentralization, reasonable consensus mechanisms, adaptability, upgradability, ecosystem exclusion functionality, collaborative assistance, philanthropic verification, and participation incentives.
+This whitepaper outlines the conceptual framework for Consortium, a decentralized autonomous organization (DAO) governance protocol. The proposal aims to guide future developers in building a multi-organization consensus system that operates transparently and openly while leveraging existing node technologies. The key concepts include open-source operations, proof of decentralization, reasonable consensus mechanisms, adaptability, upgradability, ecosystem exclusion functionality, collaborative assistance, philanthropic verification, and participation incentives. Additionally, the protocol envisions implementing a node extension through member networks as the primary membership qualification, eliminating the need for dedicated infrastructure.
 
 ## Introduction:
 
