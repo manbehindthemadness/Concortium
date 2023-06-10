@@ -92,4 +92,4 @@ Consortium represents a forward-thinking governance protocol for decentralized a
 
 ***Note: Define the concept of multi-DAO organizational units and the incentives therein.*
 
-"The strength of a tribe lies in its unity." - Genghis Khan probably
+"The strength of the tribes lies in their unity." - Genghis Khan probably
